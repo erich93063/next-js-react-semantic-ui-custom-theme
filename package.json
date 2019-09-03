@@ -1,0 +1,19 @@
+{
+	"name": "next-js-react-semantic-ui-custom-theme",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"build-semantic": "cd ./semantic && gulp build-css build-assets",
+		"watch-semantic": "cd ./semantic && yarn run build-semantic && gulp watch",
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start"
+	},
+	"dependencies": {
+		"fomantic-ui": "^2.7.8",
+		"next": "9.0.5",
+		"react": "16.9.0",
+		"react-dom": "16.9.0",
+		"semantic-ui-react": "^0.88.0"
+	}
+}
