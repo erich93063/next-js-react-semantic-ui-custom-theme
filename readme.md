@@ -5,6 +5,8 @@
 
  cd next-js-semantic-ui-custom-theme
 
+ yarn install
+
  yarn dev
 ```
 
