@@ -18,9 +18,7 @@ export default class extends Document {
 						content="width=device-width, initial-scale=1.0"
 					/>
 					<meta httpEquiv="X-UA-Compatible" content="ie=edge" />
-					<link
-						href="/static/semantic/dist/semantic.min.css"
-						rel="stylesheet" />
+
 				</Head>
 				<body>
 					<Main />

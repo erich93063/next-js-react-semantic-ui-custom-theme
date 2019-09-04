@@ -15,5 +15,10 @@
 		"react": "16.9.0",
 		"react-dom": "16.9.0",
 		"semantic-ui-react": "^0.88.0"
+	},
+	"devDependencies": {
+		"@zeit/next-css": "^1.0.1",
+		"file-loader": "^3.0.1",
+		"url-loader": "^1.1.2"
 	}
 }
